@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>deployed to stage env!</h2>
+<h2>auto deply poll scm!</h2>
 </body>
 </html>
