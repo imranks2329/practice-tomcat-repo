@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>sample build,next page!</h2>
+<h2>deployed to stage env!</h2>
 </body>
 </html>
